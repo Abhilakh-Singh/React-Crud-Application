@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Abhilakh Singh",
+      "designation": "SD2",
+      "address": "Noida",
+      "mobile": "454545454656",
+      "id": "e573"
+    },
+    {
+      "name": "Ram S",
+      "designation": "SE2",
+      "address": "Delhi",
+      "mobile": "3434324343",
+      "id": "cdbb"
+    },
+    {
+      "id": "99b7",
+      "name": "rahul",
+      "designation": "SD9",
+      "address": "Noida",
+      "mobile": "454545454656"
+    },
+    {
+      "name": "yogesh kumar",
+      "designation": "SD7",
+      "address": "Noida",
+      "mobile": "454565544",
+      "id": "d38e"
+    },
+    {
+      "id": "69b1",
+      "name": "ayush",
+      "designation": "SD22",
+      "address": "Delhi",
+      "mobile": "54545454"
+    }
+  ]
+}
